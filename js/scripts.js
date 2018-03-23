@@ -1,5 +1,3 @@
-// scripts.js
-
 $(function() {
     
     function randomString() {
@@ -133,5 +131,4 @@ todoColumn.addCard(card1);
 doingColumn.addCard(card2);
     
 })
-
 
