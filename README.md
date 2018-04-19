@@ -1,2 +1,3 @@
-# kanban-board
- https://sandra-polujanska.github.io/kanban-board/
+My own kanban board.
+
+Used: HTML, CSS, jQuery, AJAX, API
